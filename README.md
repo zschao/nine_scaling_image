@@ -23,7 +23,7 @@
 Copy the component code into your project and import it.
 
 ```dart
-import 'path_to_file/nine_scaling_image.dart';
+import 'package:nine_scaling_image/nine_scaling_image.dart';
 ```
 
 ---
