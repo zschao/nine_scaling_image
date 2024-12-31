@@ -1,6 +1,8 @@
 
 # NineScalingImage README
 
+![Demo Image](https://github.com/zschao/nine_scaling_image/blob/main/image.png)
+
 ---
 
 ## Introduction
